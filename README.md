@@ -1,6 +1,6 @@
-## Arti Annaswamy's Personal Website 
+## Jorge Santos's Personal Website 
 
-See it here - [artiannaswamy.com](http://artiannaswamy.com)
+See it here - [jdsantos.github.io](https://jdsantos.github.io)
 
 Based on the [Indigo Minimalist Jekyll Template](https://github.com/sergiokopplin/indigo) by Sérgio Kopplin @sergiokopplin - [Theme Demo](http://sergiokopplin.github.io/indigo/)
 
@@ -15,8 +15,6 @@ Based on the [Indigo Minimalist Jekyll Template](https://github.com/sergiokoppli
     |
     <b><a href="README.md#license">License</a></b>
 </p>
-
-![Screenshot](https://raw.githubusercontent.com/aannasw/aannasw.github.io/master/screen-shot.png)
 
 ---
 
