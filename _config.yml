@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Jorge Santos
+bio: Web applications enthusiast. GIS and Map related tecnologies professional. Cycling addict.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,38 +34,32 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: jdsantos89
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: jorgedsantos
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: jdsantos
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
+stackoverflow: 9177522/jorge-santos
 # quora: userquora
 # reddit: username
-medium: medium
+medium: jorgedsantos
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+# email: myemail@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    jdsantos:
+        name: Jorge Santos
+        bio: Web applications enthusiast. GIS and Map related tecnologies professional. Cycling addict.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
-
+        twitter: jdsantos89
+    
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
