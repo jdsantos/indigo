@@ -35,13 +35,6 @@ Based on the [Indigo Minimalist Jekyll Template](https://github.com/sergiokoppli
 - Hidden drafts
 - Individual tag pages
 
-## Tutorials
-
-Here's a couple of blog posts I've written on how I got the site setup - from acquiring the domain to adding customizations to the [Indigo](https://github.com/sergiokopplin/indigo) theme by @sergiokopplin.
-
-- [Build a Blog with Github - Part 1](http://artiannaswamy.com/build-a-github-blog-part-1)
-- [Build a Blog with Github - Part 2](http://artiannaswamy.com/build-a-github-blog-part-2)
-
 ---
 
 ## License
